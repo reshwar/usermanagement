@@ -1,0 +1,38 @@
+{
+    "data":[{
+        "id":  1,
+        "name":"abc",
+        "dob":"20-5-2000",
+        "address":"medipally",
+        "age":20,
+        "email":"abc@gmail.com",
+        "password":"123"
+
+    },{
+        "id":  2,
+        "name":"def",
+        "dob":"20-5-2005",
+        "address":"kphb",
+        "age":25,
+        "email":"def@gmail.com",
+        "password":"1q23"
+    },{
+        "id":  3,
+        "name":"ghi",
+        "dob":"20-5-2010",
+        "address":"koti",
+        "age":30,
+        "email":"ghi@gmail.com",
+        "password":"123aq"
+    }],
+    "formData":
+        {
+            "id":  3,
+            "name":"ghi",
+            "dob":"20-5-2010",
+            "address":"koti",
+            "age":30
+        }
+    
+    
+}
